@@ -1,2 +1,0 @@
-BarraCuda SSD TLC
-BarraCuda HDD 3.5”
